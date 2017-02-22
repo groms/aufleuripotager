@@ -1,7 +1,0 @@
-PerlSetVar AuthFile admin/htpasswd.txt
-AuthName "Administration Catalogue en ligne AVEC"
-AuthType Basic
-<Limit GET POST> 
-require user cyril 
-require user veronique 
-</Limit>
