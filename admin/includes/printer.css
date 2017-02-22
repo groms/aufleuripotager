@@ -1,0 +1,42 @@
+body { background-color: #ffffff; color: #000000; margin: 0px; }
+.pageHeading { font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #000000; font-weight: bold; text-align: center;}
+.pageHeadingSmall { font-family: Verdana, Arial, sans-serif; font-size: 14px; color: #000000; font-weight: bold; }
+/*
+.dataTableHeadingRow { background-color: #dddddd; }
+.dataTableHeadingContent { font-family: Verdana, Arial, sans-serif; font-size: 13px; color: #000000; font-weight: bold; }
+.dataTableRow,.dataTableRowRec { background-color: #dddddd; }
+.dataTableRowStrike, .dataTableRowRecStrike { background-color: #dddddd; text-decoration: line-through;}
+.dataTableContent,.dataTableContentFab { font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #444444; border-width: 1px; border-style: solid; border-color: #555555; border-bottom-style: none;border-left-style: none;border-right-style: none;}
+.dataTableContentGroup { font-family: Verdana, Arial, sans-serif; font-size: 11px; color: #222222; font-weight: bold;}
+.dataTableTotalRow { font-family: Verdana, Arial, sans-serif; font-size: 12px; color: #000000; font-weight: bold; background-color: #bbbbbb; }
+*/
+
+.pageHeading { font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #727272; font-weight: bold; }
+.pageHeadingSmall { font-family: Verdana, Arial, sans-serif; font-size: 14px; color: #727272; font-weight: bold; }
+.pageHeadingSmall:link { font-family: Verdana, Arial, sans-serif; font-size: 14px; color: #323232; font-weight: bold; text-decoration: underline; }
+.pageHeadingSmall:visited { font-family: Verdana, Arial, sans-serif; font-size: 14px; color: #323232; font-weight: bold; text-decoration: underline; }
+.pageHeadingSmall:active { font-family: Verdana, Arial, sans-serif; font-size: 14px; color: #323232; font-weight: bold; text-decoration: underline; }
+.pageHeadingSmall:hover { font-family: Verdana, Arial, sans-serif; font-size: 14px; color: #323232; font-weight: bold; text-decoration: underline; }
+
+.dataTableHeadingRow { background-color: #C9C9C9; }
+.dataTableHeadingContent { font-family: Verdana, Arial, sans-serif; font-size: 13px; color: #ffffff; font-weight: bold;}
+.dataTableRow { background-color: #F0F1F1;}
+.dataTableRowStrike { background-color: #F0F1F1; text-decoration: line-through;}
+.dataTableRowRec { background-color: #20F1F1;}
+.dataTableRowRecStrike { background-color: #20F1F1; text-decoration: line-through;}
+.dataTableRowSelected { background-color: #DEE4E8; }
+.dataTableRowOver { background-color: #FFFFFF; cursor: pointer; cursor: hand; }
+.dataTableContent { font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #444444;  border-width: 1px; border-style: solid; border-color: #555555; border-bottom-style: none;border-left-style: none;border-right-style: none;}
+.dataTableContentFab { font-family: Verdana, Arial, sans-serif; font-size: 13px; color: #444444;  border-width: 1px; border-style: solid; border-color: #555555; border-bottom-style: none;border-left-style: none;border-right-style: none;}
+.dataTableContentGroup { font-family: Verdana, Arial, sans-serif; font-size: 11px; color: #222222; font-weight: bold; }
+.dataTableTotalRow { font-family: Verdana, Arial, sans-serif; font-size: 12px; color: #000000; font-weight: bold; background-color: #E9E9E9; }
+
+.smallText { font-family: Verdana, Arial, sans-serif; font-size: 11px; }
+.strongText { font-family: Verdana, Arial, sans-serif; font-size: 11px; font-weight: bold; }
+.main { font-family: Verdana, Arial, sans-serif; font-size: 12px; }
+.messageStackError { font-family: Verdana, Arial, sans-serif; font-size: 10px; background-color: #ffb3b5; }
+.messageStackErrorBig { font-family: Verdana, Arial, sans-serif; font-size: 14px; background-color: #ffb3b5; font-weight: bold;}
+.messageStackWarning { font-family: Verdana, Arial, sans-serif; font-size: 10px; background-color: orange; }
+.messageStackWarningBig { font-family: Verdana, Arial, sans-serif; font-size: 14px; background-color: orange;  font-weight: bold; }
+.messageStackSuccess { font-family: Verdana, Arial, sans-serif; font-size: 10px; background-color: #99ff00; }
+.messageStackSuccessBig { font-family: Verdana, Arial, sans-serif; font-size: 14px; background-color: #99ff00; font-weight: bold; }

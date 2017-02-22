@@ -1,0 +1,5 @@
+# robots file for avec35catalog
+
+User-agent: *
+Disallow: /admin
+Disallow: /install.to_download_2.2
