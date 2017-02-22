@@ -190,7 +190,7 @@ function rowOutEffect(object) {
                     <td class="main"><?php echo tep_image(DIR_WS_IMAGES . 'arrow_green.gif') . ' <a href="' . tep_href_link(FILENAME_ACCOUNT_HISTORY, '', 'SSL') . '">' . MY_ORDERS_VIEW . '</a>'; ?></td>
                   </tr>
                   <tr>
-                    <td class="main"><?php echo tep_image(DIR_WS_IMAGES . 'arrow_green.gif') . ' <a href="' . tep_href_link('rvd_orders.php', '', 'SSL') . '">Afficher les produits de la <b><i>Vente Directe</i></b> que je vais recevoir à la prochaine livraison</a>'; ?></td>
+                    <td class="main"><?php echo tep_image(DIR_WS_IMAGES . 'arrow_green.gif') . ' <a href="' . tep_href_link('rvd_orders.php', '', 'SSL') . '">Afficher les produits de la <b><i>Vente Directe</i></b> que je vais recevoir ï¿½ la prochaine livraison</a>'; ?></td>
                   </tr>
                 </table></td>
                 <td width="10" align="right"><?php echo tep_draw_separator('pixel_trans.gif', '10', '1'); ?></td>
